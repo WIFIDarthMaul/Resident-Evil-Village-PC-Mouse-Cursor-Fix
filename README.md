@@ -18,4 +18,4 @@ OPTIONAL:
 You can change the Shortcut's icon to the Game's icon if you Right-Click on it, then click "Change Icon",
 and navigate to your Resident Evil Village game folder and then select "re8.exe"
 
-[Download]()
+[Download](https://github.com/WIFIDarthMaul/Resident-Evil-Village-PC-Mouse-Cursor-Fix/raw/main/RE8%20Village%20Mouse%20Cursor%20Fix.zip)
