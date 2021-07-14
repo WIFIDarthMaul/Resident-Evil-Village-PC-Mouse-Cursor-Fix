@@ -15,7 +15,7 @@ You might need to manually open the mouse pointer settings and click "Browse" an
 5. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
 6. Then open the shortcut on your Desktop. It will type and do some processes, but DO NOT TOUCH YOUR KEYBOARD WHILE IT DOES THIS.
 7. Once it finishes, it will open the game. It will leave a window open, DO NOT CLOSE IT.
-8. Once you close the game, then press Enter. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
+8. Once you close the game, then press Enter on the window that was open. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
 
 OPTIONAL:
 You can change the Shortcut's icon to the Game's icon if you Right-Click on it, then click "Change Icon",
