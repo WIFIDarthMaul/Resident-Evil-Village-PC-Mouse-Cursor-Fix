@@ -14,3 +14,7 @@ How To Install:
 6. Once it finishes, it will open the game. It will leave a window open, DO NOT CLOSE IT.
 7. Once you close the game, then press Enter. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
 
+OPTIONAL:
+You can change the Shortcut's icon to the Game's icon if you Right-Click on it, then click "Change Icon",
+and navigate to your Resident Evil Village game folder and then select "re8.exe"
+
