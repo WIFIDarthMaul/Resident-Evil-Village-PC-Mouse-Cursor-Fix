@@ -10,7 +10,7 @@ How To Install:
 2. Open CMD and type "pip install pyautogui" (Without quotation marks of course)
 3. Once finished, extract and place all files in your Resident Evil 8 Village game folder
 
-You might need to manually open the mouse pointer settings and click "Browse" and locate the file "HiddenCursor.cur", which you extracted to your game folder and select it. It will turn your mouse cursor invisible. Then reset your mouse cursor to default. **You only have to do this once.** (This stores the location of "HiddenCursor.cur", so that 1. "RE8 Hide Mouse Cursor.py" can work)
+You might need to manually open the mouse pointer settings and click "Browse" and locate the file "HiddenCursor.cur", which you extracted to your game folder and select it. It will turn your mouse cursor invisible. Then reset your mouse cursor to default. **YOU ONLY HAVE TO DO THIS ONCE.** (This stores the location of "HiddenCursor.cur", so that 1. "RE8 Hide Mouse Cursor.py" can work)
 
 5. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
 6. Then open the shortcut on your Desktop. It will type and do some processes, but DO NOT TOUCH YOUR KEYBOARD WHILE IT DOES THIS.
