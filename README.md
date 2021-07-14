@@ -1,5 +1,5 @@
 # Resident Evil Village PC Mouse Cursor Fix
-Resident Evil Village on PC shows a visible mouse cursor, that moves around while your move the player's camera, when certain resolutions are selected, such as ultrawide resolutions or lower 5:4 resolutions, such as my monitor's 1280x1024.
+Resident Evil Village on PC shows a visible mouse cursor, that moves around while you move the player's camera, when certain resolutions are selected, such as ultrawide resolutions or lower 5:4 resolutions, such as my monitor's 1280x1024.
 
 
 
