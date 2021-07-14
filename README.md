@@ -3,4 +3,14 @@ Resident Evil Village on PC shows a visible mouse cursor, that moves around whil
 
 
 
-It is a very annoying and pressing issue, that is quite distracting and detrimental to the games playability. This is a simple Python Script to fix that issue. It works by utilizing Ducky Script converted to Python, to open the mouse settings and automatically changing the cursor to an invisible one, the resorting back to the default cursor once the game is closed.
+It is a very annoying and pressing issue, that is quite distracting and detrimental to the games playability. This is a simple Python Script to fix that issue. It works by utilizing Ducky Script converted to Python, to open the mouse settings and automatically change the cursor to an invisible one, the resorting back to the default cursor once the game is closed, all within a few seconds.
+
+How To Install:
+1. You Install Python, if not already done
+2. Open CMD and type "pip install pyautogui" (Without quotation marks of course)
+3. Once that finished, extract and place all files in your Resident Evil 8 Village game folder
+4. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
+5. Then open the shortcut on your Desktop. It will type and do some processes, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
+6. Once it finishes, it will open the game. It will leave a window open, DO NOT CLOSE IT.
+7. Once you close the game, then press Enter. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
+
