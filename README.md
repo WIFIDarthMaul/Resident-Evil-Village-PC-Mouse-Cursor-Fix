@@ -3,7 +3,7 @@ Resident Evil Village on PC shows a visible mouse cursor, that moves around whil
 
 
 
-It is a very annoying and pressing issue, that is quite distracting and detrimental to the games playability. This is a simple Python Script to fix that issue. It works by utilizing Ducky Script converted to Python, to open the mouse settings and automatically change the cursor to an invisible one, the resorting back to the default cursor once the game is closed, all within a few seconds.
+It is a very annoying and pressing issue, that is quite distracting and detrimental to the games playability. This is a simple Python Script to fix that issue. It works by utilizing Ducky Script converted to Python, to open the mouse settings and automatically change the cursor to an invisible one, then resorting back to the default cursor once the game is closed, all within a few seconds.
 
 How To Install:
 1. Install Python, if you have not done so already
