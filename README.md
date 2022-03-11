@@ -7,7 +7,7 @@ It is a very annoying and pressing issue, that is quite distracting and detrimen
 
 How To Install:
 1. Install Python, if you have not done so already
-2. Open CMD and type "pip install pyautogui", without quotation marks of course. (If you get a pip error follow this [guide](https://www.activestate.com/resources/quick-reads/how-to-install-pip-on-windows/#:~:text=One%20of%20the%20most%20common,the%20command%20to%20launch%20it.) and add "pip" to Windows Environment Variables)
+2. Open CMD and type "pip install pyautogui", without quotation marks of course. (If you get a pip error, follow this [guide](https://www.activestate.com/resources/quick-reads/how-to-install-pip-on-windows/#:~:text=One%20of%20the%20most%20common,the%20command%20to%20launch%20it.) and add "pip" to Windows Environment Variables)
 3. Once finished, extract "RE8 Hide Mouse Cursor.py" in your Resident Evil 8 Village game folder,
    and extract "HiddenCursor.cur" to C:\Windows\Cursors\
 4. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
