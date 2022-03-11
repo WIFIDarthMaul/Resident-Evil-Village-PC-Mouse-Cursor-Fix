@@ -7,15 +7,13 @@ It is a very annoying and pressing issue, that is quite distracting and detrimen
 
 How To Install:
 1. Install Python, if you have not done so already
-2. Open CMD and type "pip install pyautogui" (Without quotation marks of course)
-3. Once finished, extract and place all files in your Resident Evil 8 Village game folder
-
-You might need to manually open the mouse pointer settings and click "Browse" and locate the file "HiddenCursor.cur", which you extracted to your game folder and select it. It will turn your mouse cursor invisible. Then reset your mouse cursor to default. **YOU ONLY HAVE TO DO THIS ONCE.** (This stores the location of "HiddenCursor.cur", so that 1. "RE8 Hide Mouse Cursor.py" can work)
-
-5. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
-6. Then open the shortcut on your Desktop. It will type and do some processes, but DO NOT TOUCH YOUR KEYBOARD WHILE IT DOES THIS.
-7. Once it finishes, it will open the game. It will leave a window open, DO NOT CLOSE IT.
-8. Once you close the game, then press Enter on the window that was open. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
+2. Open CMD and type "pip install pyautogui", without quotation marks of course. (If you get a pip error follow this [guide](https://www.activestate.com/resources/quick-reads/how-to-install-pip-on-windows/#:~:text=One%20of%20the%20most%20common,the%20command%20to%20launch%20it.) and add "pip" to Windows Environment Variables)
+3. Once finished, extract "RE8 Hide Mouse Cursor.py" in your Resident Evil 8 Village game folder,
+   and extract "HiddenCursor.cur" to C:\Windows\Cursors\
+4. Right-Click on "RE8 Hide Mouse Cursor.py" and click "Send To", then select "Desktop (create shortcut)"
+5. Then open the shortcut on your Desktop. It will type and do some processes, but DO NOT TOUCH YOUR KEYBOARD WHILE IT DOES THIS.
+6. Once it finishes, it will open the game. It will leave a window open, DO NOT CLOSE IT.
+7. Once you close the game, then press Enter on the window that was open. It will revert your mouse cursor to default. AGAIN, DO NOT TOUCH YOUR KEYBOARD WHILE IT RUNS.
 
 OPTIONAL:
 You can change the Shortcut's icon to the Game's icon if you Right-Click on it, then click "Change Icon",
